@@ -4,9 +4,9 @@
 [![Forum](https://img.shields.io/badge/Forum-Discourse-blue.svg)](https://www.pisilinux.org/forum)
 [![Website](https://img.shields.io/badge/Website-collaboraonline.github.io-blueviolet.svg)](https://www.pisilinux.org/)
 
-**LibreOffice in the Cloud on your own Terms**
+**Özgürlük Şimdi Başladı**
 
-![](https://raw.githubusercontent.com/CollaboraOnline/CollaboraOnline.github.io/source/static/images/homepage-image.jpg)
+![](https://www.pisilinux.org/upload/slider/__slider-pisi211-banner.jpg)
 
 ## Key features
 * View and edit text documents, spreadsheets, presentations & more
