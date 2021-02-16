@@ -5,21 +5,26 @@
 [![Website](https://img.shields.io/badge/Website-Pisi%20GNU%2FLinux-green)](https://www.pisilinux.org/)
 
 **Özgürlük Şimdi Başladı**
+Pisi GNU/Linux; Pisi tabanlı son Pardus sürümünü temel alan, özgür yazılım topluluğu tarafından geliştirilen, bilgisayar kullanıcılarına kurulum, yapılandırma ve kullanım konusunda kolaylık sağlamaya çalışan, onların temel masaüstü gereksinimlerini karşılamayı amaçlayan, son kullanıcı odaklı bir GNU/Linux dağıtımıdır.
 
 ![](https://www.pisilinux.org/upload/slider/__slider-pisi211-banner.jpg)
 
-## Key features
-* View and edit text documents, spreadsheets, presentations & more
-* Collaborative editing features
-* Works in any modern browser – no plugin needed
-* Open Source
+## Özellikleri
 
-## Website
+*Son kullanıcı odaklı bir GNU/Linux dağıtımıdır.
+*Kullanıcılarına Linux deneyimlerini olabildiğince özgür ve grafik arayüz kullanarak yaşamalarını sağlamayı amaçlar.
+*Devraldığı tasarıları geliştirmeyi, yeni tasarıların gelişmesini sağlayarak özgür yazılım dünyasına katkıda bulunmayı amaçlar.
+*Sunucu ya da Kurumsal sürüm çıkarmayı düşünmemektedir.
+*Şimdilik yalnızca x86-64 mimarisini destekler.
+*1, 2, 3 şeklinde süren bir ana sürüm ve 1.1, 1.2, 1.3 şeklinde süren ara sürüm adlandırılmasını kullanır.
+*Güncel ve kararlı uygulamalar sunar.
 
-For many more details, build instructions, downloads and more please visit https://collaboraonline.github.io/
+## Web Sayfası
 
-## Developer assistance
-Please ask your questions on `irc.freenode.net` in our `#cool-dev` channel
+Daha fazla bilgi için web sayfamızı ziyaret edebilirsiniz https://collaboraonline.github.io/
+
+## Kullanıcı Desteği
+Telegram kanalından karşılaştığınız sorunlarla ilgili bilgi alabilirsiniz.[Telegram](https://t.me/joinchat/DnOmFNS_KOjzEpnn)
 
 Join the conversation on our Discourse server at https://forum.collaboraonline.com/
 
