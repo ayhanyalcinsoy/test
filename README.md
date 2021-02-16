@@ -1,10 +1,8 @@
 # Pisi GNU/Linux
 
 [![Telegram](https://img.shields.io/badge/Telegram-Pisi%GNU/Linux-green.svg)](https://t.me/joinchat/DnOmFNS_KOjzEpnn)
-[![Forum](https://img.shields.io/badge/Forum-Discourse-blue.svg)](https://forum.collaboraonline.com/)
-[![Website](https://img.shields.io/badge/Website-collaboraonline.github.io-blueviolet.svg)](https://collaboraonline.github.io/)
-[![L10n](https://img.shields.io/badge/L10n-Weblate-lightgrey.svg)](https://hosted.weblate.org/projects/collabora-online/)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/CollaboraOnline/online)
+[![Forum](https://img.shields.io/badge/Forum-Discourse-blue.svg)](https://www.pisilinux.org/forum)
+[![Website](https://img.shields.io/badge/Website-collaboraonline.github.io-blueviolet.svg)](https://www.pisilinux.org/)
 
 **LibreOffice in the Cloud on your own Terms**
 
