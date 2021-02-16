@@ -6,3 +6,7 @@
 	path = main
 	url = https://github.com/ayhanyalcinsoy/main.git
 	branch = master
+[submodule "libfm"]
+	path = libfm
+	url = ../../lxde/libfm.git
+	branch = master
