@@ -6,3 +6,6 @@
 	path = main
 	url = https://github.com/ayhanyalcinsoy/main.git
 	branch = master
+[submodule "pisi_tool"]
+	path = pisi_tool
+	url = https://github.com/ayhanyalcinsoy/pisi_tool.git
