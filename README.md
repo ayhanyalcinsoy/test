@@ -1,6 +1,6 @@
 # Pisi GNU/Linux
 
-[![Telegram](https://img.shields.io/badge/Telegram-Pisi%GNU/Linux-green.svg)](https://t.me/joinchat/DnOmFNS_KOjzEpnn)
+[![Telegram](https://img.shields.io/badge/Telegram-Pisi%20GNU%2FLinux-blue)](https://t.me/joinchat/DnOmFNS_KOjzEpnn)
 [![Forum](https://img.shields.io/badge/Forum-blue.svg)](https://www.pisilinux.org/forum)
 [![Website](https://img.shields.io/badge/Website-github.io-blueviolet.svg)](https://www.pisilinux.org/)
 
