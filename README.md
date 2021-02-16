@@ -4,7 +4,6 @@
 [![Forum](https://img.shields.io/badge/Forum-Pisi%20GNU%2FLinux-orange)](https://www.pisilinux.org/forum)
 [![Website](https://img.shields.io/badge/Website-Pisi%20GNU%2FLinux-green)](https://www.pisilinux.org/)
 
-**Özgürlük Şimdi Başladı**
 
 Pisi GNU/Linux; Pisi tabanlı son Pardus sürümünü temel alan, özgür yazılım topluluğu tarafından geliştirilen, bilgisayar kullanıcılarına kurulum, yapılandırma ve kullanım konusunda kolaylık sağlamaya çalışan, onların temel masaüstü gereksinimlerini karşılamayı amaçlayan, son kullanıcı odaklı bir GNU/Linux dağıtımıdır.
 
@@ -25,10 +24,10 @@ Pisi GNU/Linux; Pisi tabanlı son Pardus sürümünü temel alan, özgür yazıl
 Daha fazla bilgi için web sayfamızı ziyaret edebilirsiniz https://www.pisilinux.org/
 
 ## Kullanıcı Desteği
-[Telegram](https://t.me/joinchat/DnOmFNS_KOjzEpnn) grubunda ya da [![Forum](https://www.pisilinux.org/forum) sayfalarında karşılaştığınız sorunlarla ilgili bilgi alabilirsiniz.
+[Telegram](https://t.me/joinchat/DnOmFNS_KOjzEpnn) grubunda ya da [Forum](https://www.pisilinux.org/forum) sayfalarında karşılaştığınız sorunlarla ilgili bilgi alabilirsiniz.
 
 ## Pardus (2006-2012) Projesinden Miras Alınanlar
-TÜBİTAK tarafından yürütülen Pardus tasarısı kapsamında ortaya çıkarılan ancak Pardus’un 2013 sürümünde Debian tabanına geçmesi ile birlikte TÜBİTAK tarafından geliştirilmesine son verilen pek çok Pardus tasarısının Pisi Linux kapsamında geliştirilmeye sürmektedir.
+TÜBİTAK tarafından yürütülen Pardus projesi kapsamında ortaya çıkarılan ancak Pardus’un 2013 sürümünde Debian tabanına geçmesi ile birlikte TÜBİTAK tarafından geliştirilmesine son verilen pek çok Pardus projesi Pisi GNU/Linux bünyesinde geliştirilmeye devam etmektedir.
 * **ÇOMAR**
   * ÇOMAR (Açılımı: COnfiguration MAnageR), sistemin düzgün çalışması için gerekli olan donanım, açılış, ağ, kullanıcı, zaman, görüntü gibi ayarların mümkün olduğu kadar kendiliğinden yapılmasını sağlayan, kullanıcılara bir yetki denetiminde bu ayarları basit ve anlaşılır bir biçimde değiştirme olanağı sağlayan bir yazılımdır.
 * **PİSİ**
