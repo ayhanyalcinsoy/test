@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-Pisi%20GNU%2FLinux-green)](https://www.pisilinux.org/)
 
 **Özgürlük Şimdi Başladı**
+
 Pisi GNU/Linux; Pisi tabanlı son Pardus sürümünü temel alan, özgür yazılım topluluğu tarafından geliştirilen, bilgisayar kullanıcılarına kurulum, yapılandırma ve kullanım konusunda kolaylık sağlamaya çalışan, onların temel masaüstü gereksinimlerini karşılamayı amaçlayan, son kullanıcı odaklı bir GNU/Linux dağıtımıdır.
 
 ![](https://www.pisilinux.org/upload/slider/__slider-pisi211-banner.jpg)
@@ -28,16 +29,16 @@ Daha fazla bilgi için web sayfamızı ziyaret edebilirsiniz https://www.pisilin
 
 ## Pardus (2006-2012) Projesinden Miras Alınanlar
 TÜBİTAK tarafından yürütülen Pardus tasarısı kapsamında ortaya çıkarılan ancak Pardus’un 2013 sürümünde Debian tabanına geçmesi ile birlikte TÜBİTAK tarafından geliştirilmesine son verilen pek çok Pardus tasarısının Pisi Linux kapsamında geliştirilmeye sürmektedir.
-* **ÇOMAR/**
+* **ÇOMAR**
   * ÇOMAR (Açılımı: COnfiguration MAnageR), sistemin düzgün çalışması için gerekli olan donanım, açılış, ağ, kullanıcı, zaman, görüntü gibi ayarların mümkün olduğu kadar kendiliğinden yapılmasını sağlayan, kullanıcılara bir yetki denetiminde bu ayarları basit ve anlaşılır bir biçimde değiştirme olanağı sağlayan bir yazılımdır.
-* **PİSİ/**
+* **PİSİ**
   * Pisi (Açılımı: Packages Installed Successfully as Intended), Python dilinde yazılmış bir paket yönetim sistemidir. Bağımlılıklara bakarak paket oluşturma, kurma, kaldırma, yükseltme ve benzeri işlevleri yerine getirir. XML ile tanımlanmış ve oluşturma süreci bir Python betiği ile verilmiş kaynak paketlerden ikili paketler oluşturur ve bunları bağımlılıklarına bakarak kurup kaldırabilir. Kullanıcı dostu bir grafik arayüz ve kapsamlı bir komut satırı arayüzü içerir.
-* **PAKET YÖNETİCİSİ/**
+* **PAKET YÖNETİCİSİ**
   * Paket Yöneticisi, Pisi paketlerini grafik arayüzden kolayca kurmak için kullanılabilen bir uygulamadır. Paket Yöneticisi uygulaması sayesinde paketler tek tıklama ile kolayca kurulabilir, güncellenebilir ya da kaldırılabilir. Paket Yöneticisi, her paket ile ilgili açıklama, büyüklük, sürüm gibi ayrıntılı bilgiler de verebilir.
-* **YALI/**
+* **YALI**
   * YALI (Açılımı: Yet Another Linux Installer), Pisi Linux’ın kullandığı kurulum yazılımıdır. Kullanıcıların işletim sistemlerini hızlı ve sorunsuz olarak kurulum ortamından hedefe yerleştirir. Şimdilik Pisi Linux’ta YALI yerine Calamares kullanılmaktadır.
-* **KAPTAN/**
+* **KAPTAN**
   * Kaptan, Pisi Linux kurulumu sonrasında ilk açılışta kullanıcıyı masaüstünde karşılayan ve daha sonra masaüstünü kişiselleştirmek için kullanabilen bir ayar sihirbazıdır. Kaptan, Pisi Linux hakkında genel bilgiler verirken kullanıcının masaüstünü daha rahat kullanabilmesi için ağ bağlantıları gibi belli başlı yapılandırma seçeneklerini sunar ve aynı zamanda kullanıcının masaüstünü kişiselleştirmesine de yardımcı olur.
-* **MÜDÜR/**
+* **MÜDÜR**
   * Pisi Linux’un açılış süreci sistemidir. Sistemin daha hızlı olarak açılmasını, daha esnek ve bakımı kolay bir dağıtım durumuna gelmesini amaçlar. Müdür, İşletim sistemi çekirdeği çalışmaya başladığı andan kullanıcının karşısına giriş ekranı çıkana kadar yapılan, dosya sistemlerini bağlamak, donanımları tanıyıp sürücüleri yüklemek, belli başlı ağ ayarlarını yapmak, sistem hizmetlerini başlatmak gibi işlerle bilgisayar kapatılırken hizmetlerin durdurulması, dosya sistemlerinin güvenli bir şekilde kapatılması gibi işleri yapmaktadır.
 
