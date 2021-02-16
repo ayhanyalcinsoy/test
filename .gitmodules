@@ -1,8 +1,8 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/pisilinux/core
+	url = https://github.com/pisilinux/core.git
 	branch = master
 [submodule "main"]
 	path = main
-	url = https://github.com/pisilinux/main
+	url = https://github.com/pisilinux/main.git
 	branch = master
